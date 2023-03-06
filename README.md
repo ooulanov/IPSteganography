@@ -1,2 +1,2 @@
 # IPSteganography
-Link steganography tool using c++
+Link steganography tool using raw C
